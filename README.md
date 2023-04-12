@@ -1,5 +1,9 @@
 # ManageIT-App
  Notes Manager Application 
+"Manage It!" a Notes Manager Application
+•	"Manage It!" a Notes Manager Application -Which can be used to Manage daily life Notes.
+•	Used Android Studio and Firebase as Database.
+•	Used concepts such as recycler-view, Splash screen, etc.
 
 
 <!-- Grid View of Screenshots -->
