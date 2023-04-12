@@ -10,7 +10,7 @@
   <img src="https://github.com/Hemant-Lanjewar/ManageIT-App/blob/master/Forgot.jpg" width="200"/>
   <img src="https://github.com/Hemant-Lanjewar/ManageIT-App/blob/master/main.jpg" width="200"/>
     <img src="https://github.com/Hemant-Lanjewar/ManageIT-App/blob/master/Create%20note.jpg" width="200"/>
-      <img src="https://github.com/Hemant-Lanjewar/ManageIT-App/blob/master/main.jpg" width="200"/>
+      <img src="https://github.com/Hemant-Lanjewar/ManageIT-App/blob/master/Edit-Note.jpg" width="200"/>
         <img src="https://github.com/Hemant-Lanjewar/ManageIT-App/blob/master/main.jpg" width="200"/>
   
   
