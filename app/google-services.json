@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "996627551650",
+    "project_id": "manageit-710c3",
+    "storage_bucket": "manageit-710c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996627551650:android:1002394ba22054dd02cefb",
+        "android_client_info": {
+          "package_name": "com.example.manageit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996627551650-uf404st52cb7oj4dpu0gqvdttbejin8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manageit",
+            "certificate_hash": "183878bf572372990f5e6f9050071ba3478335d3"
+          }
+        },
+        {
+          "client_id": "996627551650-5r485vtk3vfpm32vdaqi8fdc7prolo0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDxCsYp0nvySCchZovG3YkrIaQkXmftys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996627551650-5r485vtk3vfpm32vdaqi8fdc7prolo0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
